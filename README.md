@@ -1,8 +1,8 @@
 # Stackit
-his repository contains our submission for the Odoo Hackathon.
+this repository contains our submission for the Odoo Hackathon.
 
 #PROBLEM STATEMENT - A MINIMAL Q & A FORUM PLATFORM
-Team Leader :Patel Shrey Amulkumar
+<h1>Team Leader :Patel Shrey Amulkumar</h1>
 Email: shap202318@gmail.com
 Team Member 1: Abhay Chauhan
 Email: cabhay829@gecg.ac.in
