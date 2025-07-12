@@ -1,13 +1,12 @@
-# Stackit
-this repository contains our submission for the Odoo Hackathon.
+# React + Vite
 
-# PROBLEM STATEMENT - A MINIMAL Q & A FORUM PLATFORM
-<h1>Team Leader :Patel Shrey Amulkumar</h1><br>
-<h2>Email: shap202318@gmail.com<br>
-<h1>Team Member 1: Abhay Chauhan</h1><br>
-<h2>Email: cabhay829@gecg.ac.in</h2><br>
-<h1>Team Member 2: Siddharth Parmar</h1><br>
-<h2>Email: siddharth.official.swe@gmail.com</h2><br>
-<h1>Team Member 3: Viren Rangani</h1><br>
-<h2>Email: virenrangani7@gmail.com</h2><br>
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
